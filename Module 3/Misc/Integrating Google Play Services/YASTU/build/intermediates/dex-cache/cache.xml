@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/YASTU/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fcfdc3eecca1bbdde9bfb84e647558ac27118ab">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-4ef0a75feaa3258676e577b02e18f287e3615446.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-ebfa111e15350b88a0daa8e7e547c588584acfe2.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-e41021199fba7f139918db0c1a6f571ca67ccf9d.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-ce73a49ee4b33c3028052a32519f4d024cfcb5fb.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-760c1567d8063c515df9e9a715c6afba7e3f2f75.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-116d6d07291cc6dfc34a9a5c04b497d07d3b6e8a.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-0f23119356cd2509fb38216b15f41591ccd08726.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-80d415f6cf18b82367a25342117a25d79f191fb5.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-91e4cc30e295fcbb97329e258fe703af4120ec21.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-9cb8d95f99d6c7feaaae3987634ebf53fab27770.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-e7a98acc1beaa2a7ef171ae61ce722e26273112d.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-e7f9ba20b978d303a36fc3f72e825fa97cd1e0f3.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-a1f2ad9f8f87014daea487d6ccf939bddf486d75.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-a4de4412e991f0db7eec626c1e3d22df7595d33c.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-7fd8194dceb9cd8ece772fa0e9ef60a3a14918de.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-530eccd40fcf4a3db43637b983aa4da1f5afe302.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-6c92182bf46bc6f28d72ae721cac04d665bd9d82.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-d790e24b251dbe2007c2b84bfc4ce8e9372102a7.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-259ea84f83a1ff1247350c62dffeba8de4c72ed6.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-2abda1e026e381494e2bb5e99f46f20c1dfa59d8.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-ede1fd05524580a41d6538769360e130c43c3a20.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-5280bb717250e518d790c993688cc1235c23a6ad.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20130522/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-6b446b659d9096bacefcd47b8ea4ec49da767261.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-51590704514d3b54fa74c37ce2806f0277c3ae47.jar" />
+    </item>
+    <item
+        jar="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/shalafi/Documents/workspaces/YASTU/mobile/build/intermediates/pre-dexed/debug/classes-0940dfd50d4f1241015826fc641d9ada28738737.jar" />
+    </item>
+
+</items>
