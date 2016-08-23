@@ -1,0 +1,194 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.63"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:src="@mipmap/ic_launcher" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Large Text"
+                android:id="@+id/textStatus"
+                android:layout_marginTop="10dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.35">
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fade In"
+                android:id="@+id/btnFadeIn"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fade Out"
+                android:id="@+id/btnFadeOut"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fade In Out"
+                android:id="@+id/btnFadeInOut"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Zoom In"
+                android:id="@+id/btnZoomIn"
+                android:layout_above="@+id/btnTopBottom"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Zoom out"
+                android:id="@+id/btnZoomOut"
+                android:layout_alignTop="@+id/btnZoomInOut"
+                android:layout_alignRight="@+id/btnFadeInOut"
+                android:layout_alignEnd="@+id/btnFadeInOut" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Zomm in out"
+                android:id="@+id/btnZoomInOut"
+                android:layout_below="@+id/btnFadeOut"
+                android:layout_alignRight="@+id/btnFadeInOut"
+                android:layout_alignEnd="@+id/btnFadeInOut"
+                android:visibility="invisible" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Left Right"
+                android:id="@+id/btnLeftRight"
+                android:layout_below="@+id/btnZoomIn"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Right Left"
+                android:id="@+id/btnRightLeft"
+                android:layout_below="@+id/btnZoomInOut"
+                android:layout_alignLeft="@+id/btnFadeOut"
+                android:layout_alignStart="@+id/btnFadeOut" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Top Bot"
+                android:id="@+id/btnTopBottom"
+                android:layout_below="@+id/btnZoomInOut"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bounce"
+                android:id="@+id/btnBounce"
+                android:layout_below="@+id/btnLeftRight"
+                android:layout_alignRight="@+id/btnZoomIn"
+                android:layout_alignEnd="@+id/btnZoomIn" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Flash"
+                android:id="@+id/btnFlash"
+                android:layout_below="@+id/btnTopBottom"
+                android:layout_alignRight="@+id/btnRotateRight"
+                android:layout_alignEnd="@+id/btnRotateRight" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rotate Left"
+                android:id="@+id/btnRotateLeft"
+                android:layout_below="@+id/btnBounce"
+                android:layout_alignLeft="@+id/btnBounce"
+                android:layout_alignStart="@+id/btnBounce" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rotate Right"
+                android:id="@+id/btnRotateRight"
+                android:layout_below="@+id/btnFlash"
+                android:layout_alignRight="@+id/btnTopBottom"
+                android:layout_alignEnd="@+id/btnTopBottom" />
+
+            <SeekBar
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/seekBarSpeed"
+                android:max="5000"
+                android:layout_below="@+id/btnRotateLeft"
+                android:layout_alignLeft="@+id/btnRotateLeft"
+                android:layout_alignStart="@+id/btnRotateLeft"
+                android:indeterminate="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textSeekerSpeed"
+                android:layout_alignBottom="@+id/seekBarSpeed"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>
