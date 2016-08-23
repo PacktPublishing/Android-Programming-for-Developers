@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Donde Es Snap!</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="drawer_open">Abra</string>
+    <string name="drawer_close">Cerca</string>
+
+    <string name="enter_photo_title">Ingrese título de la foto</string>
+    <string name="tag1">Tag 1</string>
+    <string name="tag2">Tag 2</string>
+    <string name="tag3">Tag 3</string>
+    <string name="capture">Tomar foto</string>
+    <string name="save">Guardar</string>
+
+    <string name="tags">Tags</string>
+    <string name="titles">Títulos</string>
+    <string name="show_map">Ver mapa</string>
+
+    <!-- These are the items in our list -->
+    <string-array name="nav_drawer_items">
+        <item >Títulos</item>
+        <item >Tags</item>
+        <item >Tomar foto</item>
+    </string-array>
+
+</resources>

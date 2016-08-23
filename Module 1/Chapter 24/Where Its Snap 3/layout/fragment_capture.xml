@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/capture"
+        android:id="@+id/btnCapture"
+        android:layout_marginBottom="28dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@mipmap/ic_launcher"
+        android:layout_below="@+id/editTextTitle"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save"
+        android:id="@+id/btnSave"
+        android:layout_alignTop="@+id/btnCapture"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="22dp"
+        android:layout_marginEnd="22dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTitle"
+        android:hint="@string/enter_photo_title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTag1"
+        android:hint="@string/tag1"
+        android:layout_marginBottom="121dp"
+        android:layout_above="@+id/btnCapture"
+        android:layout_alignLeft="@+id/btnCapture"
+        android:layout_alignStart="@+id/btnCapture" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTag2"
+        android:hint="@string/tag2"
+        android:layout_alignTop="@+id/editTextTag1"
+        android:layout_alignLeft="@+id/editTextTag1"
+        android:layout_alignStart="@+id/editTextTag1"
+        android:layout_marginTop="59dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTag3"
+        android:hint="@string/tag3"
+        android:layout_above="@+id/btnCapture"
+        android:layout_alignLeft="@+id/btnCapture"
+        android:layout_alignStart="@+id/btnCapture" />
+
+</RelativeLayout>

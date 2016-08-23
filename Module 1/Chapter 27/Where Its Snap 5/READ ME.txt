@@ -1,0 +1,2 @@
+The only change between version 4 and 5 is the inclusion of the extra strings.xml file.
+Please see chapter 27 for instructions.
