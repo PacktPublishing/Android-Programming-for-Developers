@@ -1,4 +1,4 @@
-#Android Programming for Developers
+#Android: Programming for Developers
 
 ##What you will learn
 * Mastering the fundamentals of coding Java for Android
