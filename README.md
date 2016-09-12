@@ -1,6 +1,6 @@
 #Android: Programming for Developers
 
-This is the code repository for [Android: Programming for Developers](https://www.packtpub.com/application-development/android-programming-developers?utm_source=github&utm_medium=repository&utm_campaign=9781787123694), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Android: Programming for Developers](https://www.packtpub.com/application-development/android-programming-developers?utm_source=github&utm_medium=repository&utm_campaign=9781787123694), published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
 
 ##What you will learn
 * Mastering the fundamentals of coding Java for Android
