@@ -1,8 +1,8 @@
-#Android: Programming for Developers
+# Android: Programming for Developers
 
 This is the code repository for [Android: Programming for Developers](https://www.packtpub.com/application-development/android-programming-developers?utm_source=github&utm_medium=repository&utm_campaign=9781787123694), published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
 
-##What you will learn
+## What you will learn
 * Mastering the fundamentals of coding Java for Android
 * Installing and setting up your Android development environment
 * Building functional user interfaces with the Android Studio visual designer
@@ -15,13 +15,13 @@ This is the code repository for [Android: Programming for Developers](https://ww
 * Implementing collision detection using different techniques and discover how to optimize it for complex games
 * Building, deploying, and publishing real Android applications to the Google Play marketplace
 
-##Related Products
+## Related Products
 
 [Android 3.0 Application Development Cookbook](https://www.packtpub.com/application-development/android-30-application-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849512947)
 
 [Instant Android Systems Development How-to](https://www.packtpub.com/application-development/instant-android-systems-development-how-instant?utm_source=github&utm_medium=repository&utm_campaign=9781849519762)
 
-##Note
+## Note
 
 No code for the following:
 
